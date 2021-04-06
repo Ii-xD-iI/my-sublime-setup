@@ -20,7 +20,7 @@ void Solve(){
 int32_t main() {
 	IO("");
     	
-	test(Dolphin_OTZ)
+	//test(Dolphin_OTZ)
     	Solve();
     return 0;
 }
