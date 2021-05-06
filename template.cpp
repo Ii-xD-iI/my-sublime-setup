@@ -1,6 +1,6 @@
 using namespace std;
 #include "bits/stdc++.h"
-#define len(Z) (int)(Z).size()
+#define len(DolphinOrz) (int)(DolphinOrz).size()
 #define elif else if
 #define all(Z) (Z).begin(), (Z).end()
 #define ceil(X,Y) (X + Y-1)/Y
@@ -8,7 +8,6 @@ void IO(string Bessie);
 
 int32_t main() {
 	IO("");
-
 	return 0;
 }
 
